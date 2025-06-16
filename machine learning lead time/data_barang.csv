@@ -1,0 +1,20 @@
+supplier;tanggal_order;tanggal_terima;lokasi;jenis_barang;jumlah_order
+Karunia Baru;10/01/2025;17/01/2025;Palangka Raya;Kapasitor Indoor;100
+Yan AC;05/02/2025;13/02/2025;Palangka Raya;Freon R32;200
+Tiga dara elektronik;01/03/2025;07/03/2025;Palangka Raya;Kondensor;150
+Tiga dara elektronik;15/01/2025;20/01/2025;Palangka Raya;Evaporator;300
+Karunia Baru;20/02/2025;01/03/2025;Palangka Raya;Freon R22;180
+Yan AC;10/03/2025;18/03/2025;Palangka Raya;Freon R410A;250
+Karunia Baru;22/02/2025;01/03/2025;Palangka Raya;Kompresor R32;120
+Karunia Baru;23/02/2025;02/03/2025;Palangka Raya;Kompresor R22;100
+Yan AC;24/02/2025;03/03/2025;Palangka Raya;Kompresor R410A;100
+Tiga dara elektronik;25/02/2025;04/03/2025;Palangka Raya;Modul Indoor Inverter AC LG;100
+Yan AC;26/02/2025;05/03/2025;Palangka Raya;Modul Indoor AC Midea;100
+Tiga dara elektronik;27/02/2025;06/03/2025;Palangka Raya;Modul Outdoor Inverter AC LG;100
+Tiga dara elektronik;28/02/2025;07/03/2025;Palangka Raya;Modul Outdoor Inverter AC Midea;100
+Tiga dara elektronik;01/03/2025;08/03/2025;Palangka Raya;Modul Outdoor Inverter AC Samsung;100
+Karunia Baru;02/03/2025;09/03/2025;Palangka Raya;Modul Indoor Inverter AC Samsung;100
+Tiga dara elektronik;03/03/2025;10/03/2025;Palangka Raya;Kapasitor Indoor;100
+Yan AC;04/03/2025;11/03/2025;Palangka Raya;Freon R22;100
+Tiga dara elektronik;05/03/2025;12/03/2025;Palangka Raya;Freon R32;100
+Karunia Baru;06/03/2025;13/03/2025;Palangka Raya;Freon R32;100
